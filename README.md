@@ -1,7 +1,6 @@
 # Role-Based Access Control (RBAC) Full-Stack Application
 
-This project is a complete full-stack web application implementing secure Authentication and Role-Based Access Control (RBAC). It fulfills the requirements for the Backend Developer (Intern) Assignment.
-
+This project is a complete full-stack web application implementing secure Authentication and Role-Based Access Control (RBAC).
 ## Technology Stack
 
 - **Backend:** Python, Flask, Flask-CORS, PyJWT, Bcrypt, SQLite
